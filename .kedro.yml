@@ -1,0 +1,6 @@
+context_path: pydatala.run.ProjectContext
+project_name: "pydatala"
+project_version: "0.16.5"
+package_name: "pydatala"
+hooks:
+  - pydatala.hooks.project_hooks
